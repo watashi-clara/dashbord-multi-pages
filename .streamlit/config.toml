@@ -1,0 +1,32 @@
+
+[theme]
+base = "light"
+
+# Couleur principale : vert RATP
+primaryColor = "#00C48A"
+
+# Fond principal clair
+backgroundColor = "#F5F7FA"
+
+# Arrière-plan des blocs (cartes, conteneurs)
+secondaryBackgroundColor = "#E2EEF7"  # un bleu très pâle inspiré du bleu RATP
+
+# Fond des blocs de code
+codeBackgroundColor = "#E8F3F0"
+
+# Couleur du texte
+textColor = "#0A2A43"
+
+# Police générale
+font = "sans serif"
+
+
+[theme.sidebar]
+# Sidebar en bleu RATP très doux
+backgroundColor = "#C9DFF1"
+
+# Éléments secondaires dans la sidebar (vert + bleu équilibrés)
+secondaryBackgroundColor = "#B3E9D9"
+
+# Optionnel : couleur du texte de la sidebar
+textColor = "#0A2A43"
